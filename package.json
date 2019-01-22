@@ -15,7 +15,7 @@
     "node": "^8.11.0 || >=10.13.0"
   },
   "dependencies": {
-    "@tunnckocore/execa": "^2.1.2",
+    "@tunnckocore/execa": "^3.0.0",
     "esm": "^3.0.84",
     "semver": "^5.6.0"
   },
